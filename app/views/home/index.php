@@ -4,7 +4,7 @@
   <h2 class="display-5">Selamat Datang di Ravel Case</h2>
   <p class="lead">Kami menyediakan berbagai tipe case untuk semua merk hp</p>
   <hr class="my-4">
-  <a class="btn btn-info btn-lg" href="#" role="button">Learn more</a>
+  <a class="btn btn-info btn-lg" href="<?= BASEURL; ?>/casing" role="button">Learn more</a>
 </div>
 
 <center>
