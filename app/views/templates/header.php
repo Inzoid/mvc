@@ -19,6 +19,7 @@
     <div class="navbar-nav">
       <a class="nav-item nav-link active" href="<?= BASEURL; ?>"><font color ="white">Home</font> <span class="sr-only">(current)</span></a>
       <a class="nav-item nav-link" href="<?= BASEURL; ?>/casing"><font color ="white">Case</font></a>
+      <a class="nav-item nav-link" href="<?= BASEURL; ?>/mahasiswa"><font color ="white">Pelanggan</font></a>
       <a class="nav-item nav-link" href="<?= BASEURL; ?>/about"><font color ="white">About</font></a>
     </div>
   </div>

@@ -2,7 +2,7 @@
 <div class="container">
 <div class="jumbotron mt-4">
   <h2 class="display-5">Selamat Datang di Ravel Case</h2>
-  <p class="lead">Kami menyediakan berbagai tipe case untuk semua merk hp</p>
+  <p class="lead">halo nama saya <?= $data['nama']; ?> </p>
   <hr class="my-4">
   <a class="btn btn-info btn-lg" href="<?= BASEURL; ?>/casing" role="button">Learn more</a>
 </div>
@@ -16,14 +16,14 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="<?= BASEURL; ?>/img/Banner.png" class="d-block w-100 mb-3">
+      <img src="<?= BASEURL; ?>/img/3.png" class="center-block" style="max-height:450px">
       
     </div>
     <div class="carousel-item">
-      <img src="<?= BASEURL; ?>/img/Hardcase.jpg" class="d-block w-100 mb-1">
+      <img src="<?= BASEURL; ?>/img/Hardcase.jpg" class="center-block" style="max-height:450px">
     </div>
     <div class="carousel-item">
-      <img src="<?= BASEURL; ?>/img/Soft.jpg" class="d-block w-100">
+      <img src="<?= BASEURL; ?>/img/Soft.jpg" class="center-block" style="max-height:450px">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -50,7 +50,7 @@
     </div>
   </div>
   <div class="card text-center">
-    <img src="<?= BASEURL; ?>/img/Banner.png" class="card-img-top" alt="...">
+    <img src="<?= BASEURL; ?>/img/3.png" class="card-img-top" alt="...">
     <div class="card-body mt-5">
       <h5 class="card-title mb-5">Premium Case</h5>
       <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
@@ -73,3 +73,4 @@
 </div>
 
 
+<img src="administrator/slider-home/gambar/Banner Konsultasi Rico Huang (Slider DA).png" alt="slider" class="center-block" style="max-height:450px">
