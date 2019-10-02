@@ -73,4 +73,3 @@
 </div>
 
 
-<img src="administrator/slider-home/gambar/Banner Konsultasi Rico Huang (Slider DA).png" alt="slider" class="center-block" style="max-height:450px">
