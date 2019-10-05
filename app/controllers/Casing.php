@@ -8,4 +8,12 @@ class Casing extends Controller {
         $this->view('case/index');
         $this->view('templates/footer');
     }
+
+    public function faq()
+    {
+        $data['judul'] = "FAQ";
+        $this->view('templates/header', $data);
+        $this->view('case/faq');
+        $this->view('templates/footer');
+    }
 }

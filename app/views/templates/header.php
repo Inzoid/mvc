@@ -20,17 +20,19 @@
       <a class="nav-item nav-link active" href="<?= BASEURL; ?>"><font color ="white">Home</font> <span class="sr-only">(current)</span></a>
       <a class="nav-item nav-link" href="<?= BASEURL; ?>/casing"><font color ="white">Case</font></a>
       <a class="nav-item nav-link" href="<?= BASEURL; ?>/mahasiswa"><font color ="white">Pelanggan</font></a>
+      <a class="nav-item nav-link" href="<?= BASEURL; ?>/casing/faq"><font color ="white">FAQ</font></a>
       <a class="nav-item nav-link" href="<?= BASEURL; ?>/about"><font color ="white">About</font></a>
+
     </div>
   </div>
 
-<div class="pull-right">
+<!-- <div class="pull-right">
 <nav class="navbar navbar-light bg">
   <form class="form-inline">
     <input class="form-control mr-sm-2" type="search" placeholder="Cari Case" aria-label="Search">
     <button class="btn btn-outline-light my-2 my-sm-0" type="submit">Search</button>
   </form>
-</nav>
+</nav> -->
 </div>
 
 </nav>
